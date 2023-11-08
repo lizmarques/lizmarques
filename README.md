@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    I'm currently working as a Junior Data Scientist.
+    I'm currently working as a Software Engineer.
   </p>
 
 <div align="center">
