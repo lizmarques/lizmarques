@@ -10,10 +10,10 @@ For the past 3 years, I’ve developed solutions using Generative AI, LLMs, and 
 
 ## 🧠 What I Do
 
-- 🧩 **Generative AI / LLM Applications** – Designing AI agents that power data-driven, intelligent, and adaptive experiences
+- 🧩 **Generative AI / LLM Applications** – Creating AI agents that deliver efficiency, adaptability, and intelligent interaction
 - 💬 **Prompt / Context Engineering** – Building structured context flows that improve LLM precision and relevance  
 - 🔍 **Retrieval-Augmented Generation (RAG)** – Powering grounded reasoning with embeddings and vector databases  
-- 🎧 **Speech & Text Intelligence** – Building Speech-to-Text pipelines and analytics systems to extract insights from real-world conversations 
+- 🎧 **Speech & Text Intelligence** – Building Speech-to-Text pipelines and analytics systems to extract insights from voice data
 
 <br>
 <div align="center">
