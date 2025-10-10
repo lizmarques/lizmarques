@@ -4,13 +4,12 @@
   Hi! I'm Liz 👋
 </h1>
 
-A Software Engineer passionate about building AI-powered systems that bridge innovation and real-world impact.
-For the past 3 years, I’ve developed solutions using Generative AI, LLMs, and automation to help businesses optimize workflows, uncover insights, and improve decision-making.
+A **Software Engineer** passionate about building **AI-powered systems** that bridge innovation and real-world impact. For the past 3 years, I’ve developed solutions using **Generative AI — with a focus on Large Language Models (LLMs)** — to help businesses optimize workflows, uncover insights, and improve decision-making.
 
 
 ## 🧠 What I Do
 
-- 🧩 **Generative AI / LLM Applications** – Creating AI agents that deliver efficiency, adaptability, and intelligent interaction
+- 🧩 **LLM Applications** – Creating AI agents that deliver efficiency, adaptability, and intelligent interaction
 - 💬 **Prompt / Context Engineering** – Building structured context flows that improve LLM precision and relevance  
 - 🔍 **Retrieval-Augmented Generation (RAG)** – Powering grounded reasoning with embeddings and vector databases  
 - 🎧 **Speech & Text Intelligence** – Building Speech-to-Text pipelines and analytics systems to extract insights from voice data
