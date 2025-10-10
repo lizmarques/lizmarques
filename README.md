@@ -10,10 +10,10 @@ For the past 3 years, I’ve developed solutions using Generative AI, LLMs, and 
 
 ## 🧠 What I Do
 
-- 🧩 **Generative AI / LLM Applications** – Designing smart assistants and data-driven tools with GPT & LangChain  
-- 💬 **Prompt / Context Engineering** – Crafting structured contexts that guide LLMs for precision and consistency  
-- 🔍 **RAG (Retrieval-Augmented Generation)** – Using embeddings to bring knowledge-grounded insights into AI systems  
-- 🎧 **Speech & Text Intelligence** – Building pipelines combining Speech-to-Text, GPT, and analytics for call insights
+- 🧩 **Generative AI / LLM Applications** – Designing AI agents that power data-driven, intelligent, and adaptive experiences
+- 💬 **Prompt / Context Engineering** – Building structured context flows that improve LLM precision and relevance  
+- 🔍 **Retrieval-Augmented Generation (RAG)** – Powering grounded reasoning with embeddings and vector databases  
+- 🎧 **Speech & Text Intelligence** – Building Speech-to-Text pipelines and analytics systems to extract insights from real-world conversations 
 
 <br>
 <div align="center">
@@ -31,11 +31,12 @@ For the past 3 years, I’ve developed solutions using Generative AI, LLMs, and 
 | **Machine Learning** | Scikit-learn, Pandas, Numpy |
 | **Data Visualization** | Matplotlib, Seaborn |
 | **Deep Learning** | TensorFlow |
+| **Frameworks** | LangChain |
 | **Audio Processing** | Librosa |
 | **Version Control** | GitHub |
 | **IDE** | PyCharm, VSCode, Cursor |
 | **Cloud Architecture** | Microsoft Azure, AWS |
-| **Others** | Streamlit, GPT, LangChain, APIs |
+| **Others** | Streamlit, GPT, APIs |
 
 <!-- <div align="center" valign="top"><br>
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
