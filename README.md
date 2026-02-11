@@ -6,6 +6,7 @@
 
 A **Software Engineer** passionate about building **AI-powered systems** that bridge innovation and real-world impact. For the past 3 years, I’ve developed solutions using **Generative AI — with a focus on Large Language Models (LLMs)** — to help businesses optimize workflows, uncover insights, and improve decision-making.
 
+<br>
 
 ## 🧠 What I Do
 
@@ -15,12 +16,6 @@ A **Software Engineer** passionate about building **AI-powered systems** that br
 - 🎧 **Speech & Text Intelligence** – Building Speech-to-Text pipelines and analytics systems to extract insights from voice data
 
 <br>
-<div align="center">
-<a href="https://github.com/lizmarques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lizmarques&count_private=true&include_all_commits=true&show_icons=true&title_color=d198e5&theme=dracula&hide_border=false&show_owner=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizmarques&title_color=d198e5&theme=dracula&hide_border=false&&layout=compact"/>
-</a>
-</div>
 
 ## 🧰 Tech Stack
 
@@ -46,12 +41,15 @@ A **Software Engineer** passionate about building **AI-powered systems** that br
   <img align="center" alt="azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
 </div> -->
 
+<br>
+
 ## 💡 What I’m Exploring
 
 - 🤖 Agentic workflows & multi-LLM orchestration  
 - 🧩 Lightweight fine-tuning and adapters (LoRA / PEFT)  
 - 🛠️ Evaluation frameworks for LLM reasoning  
 
+<br>
 
 ## 🌱 Beyond Code
 
